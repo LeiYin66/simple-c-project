@@ -166,7 +166,6 @@ int main(void)
         }
         else
         {
-            CLEAR_SCREEN;
             PRESS("Input error, value must be a serial number!\npress any key to return...");
         }
     }
